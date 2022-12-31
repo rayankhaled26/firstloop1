@@ -9,11 +9,3 @@ for value in numbers:
             continue
         if value > 500:
             break
-
-
-
-
-
-
-
-
